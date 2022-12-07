@@ -25,18 +25,8 @@
 
 rootProject.name = "unethicalite-plugins"
 
-include("unethical-fighter")
-include("unethical-butler")
 include("unethical-bank")
-include("unethical-autologin")
-include("unethical-oneclick")
-include("unethical-agility")
-include("unethical-explorer")
-include("unethical-chopper")
-include("unethical-cooker")
-include("unethical-bankpin")
-include("unethical-pickpocket")
-include("unethical-logout")
+
 
 for (project in rootProject.children) {
     project.apply {

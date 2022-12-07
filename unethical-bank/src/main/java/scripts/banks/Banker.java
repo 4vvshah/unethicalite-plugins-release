@@ -1,3 +1,5 @@
+package scripts.banks;
+
 import net.runelite.client.plugins.PluginDescriptor;
 import net.unethicalite.api.plugins.LoopedPlugin;
 import org.pf4j.Extension;

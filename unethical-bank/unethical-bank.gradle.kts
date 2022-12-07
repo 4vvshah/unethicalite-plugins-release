@@ -2,7 +2,7 @@ version = "0.0.4"
 
 project.extra["PluginName"] = "Unethical Bank"
 project.extra["PluginDescription"] = "Banks easily"
-project.extra["GithubUrl"] = "https://github.com/4vvshah/unethicalite-plugins-release"
+project.extra["GithubUrl"] = "https://github.com/4vvshah/unethicalite-plugins-release/4vv"
 project.extra["GithubUserName"] = "4vvshah"
 project.extra["GithubRepoName"] = "unethicalite-plugins-release"
 
